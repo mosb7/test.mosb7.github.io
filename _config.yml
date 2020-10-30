@@ -1,0 +1,4 @@
+exclude:
+  - jekyll-theme-scaffold.gemspec
+  - LICENSE.txt
+  - README.md
