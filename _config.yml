@@ -1,3 +1,6 @@
+title: Scaffold
+tagline: A one-column minimalist Jekyll theme for bloggers
+
 exclude:
   - jekyll-theme-scaffold.gemspec
   - LICENSE.txt
