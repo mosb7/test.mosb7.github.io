@@ -1,5 +1,8 @@
 title: Scaffold
 tagline: A one-column minimalist Jekyll theme for bloggers
+author:
+  name: Songzi Vong
+  url: https://twitter.com/sziv2p/
 
 exclude:
   - jekyll-theme-scaffold.gemspec
