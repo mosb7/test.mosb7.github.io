@@ -13,3 +13,7 @@ According to [Merriam-Webster](https://www.merriam-webster.com/), a *scaffold* i
 So is the target of the Jekyll theme Scaffold. It doesn't need to be modern, powerful, colorful, or beautiful; It just needs to be **simple**, **proper**, **naked**, and **neat**.
 
 Scaffold is empirical. Standing on it, you -- the blogger -- can build a great building based on your words.
+
+---
+
+More information about this theme can be found in the [official repository](https://github.com/sziv2p/jekyll-theme-scaffold).

@@ -3,8 +3,13 @@ tagline: A one-column minimalist Jekyll theme for bloggers
 author:
   name: Songzi Vong
   url: https://twitter.com/sziv2p/
+paginate: 10
+tags_path: /tags/
 
 exclude:
   - jekyll-theme-scaffold.gemspec
   - LICENSE.txt
   - README.md
+
+plugins:
+  - jekyll-paginate
