@@ -1,5 +1,9 @@
 # Scaffold <!-- omit in toc -->
 
+<a href="https://jekyll-themes.com">
+  <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
+</a>
+
 Scaffold is a *one-column minimalist Jekyll theme for bloggers*.
 
 According to [Merriam-Webster](https://www.merriam-webster.com/), a *scaffold* is
@@ -9,6 +13,10 @@ According to [Merriam-Webster](https://www.merriam-webster.com/), a *scaffold* i
 So is the target of the Jekyll theme Scaffold. It doesn't need to be modern, powerful, colorful, or beautiful; It just needs to be **simple**, **proper**, **naked**, and **neat**.
 
 Scaffold is empirical. Standing on it, you -- the blogger -- can build a great building based on your words.
+
+*Check the [live demo](https://sziv2p.github.io/jekyll-theme-scaffold/).*
+
+![Screenshot](screenshot.png)
 
 ## Features (Not a Complete List) <!-- omit in toc -->
 
