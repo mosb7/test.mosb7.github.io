@@ -7,6 +7,7 @@ tags:
 - html
 - blog
 date: 2020-11-01 22:52:41 +0800
+toc: true
 ---
 Text can be **bold**, _italic_, ~~strikethrough~~, or <mark>marked</mark>.
 
@@ -15,9 +16,6 @@ Text can be **bold**, _italic_, ~~strikethrough~~, or <mark>marked</mark>.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-- toc
-{: toc }
 
 ## Header 2
 
