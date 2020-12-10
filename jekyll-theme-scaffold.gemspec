@@ -2,11 +2,11 @@
 
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-scaffold"
-  spec.version       = "0.1.0"
+  spec.version       = "1.0.0"
   spec.authors       = ["Songzi Vong"]
   spec.email         = ["sziv2p@gmail.com"]
 
-  spec.summary       = "A one-column minimalist Jekyll theme for bloggers"
+  spec.summary       = "A minimalist yet powerful Jekyll theme for bloggers"
   spec.homepage      = "https://github.com/sziv2p/jekyll-theme-scaffold"
   spec.license       = "MIT"
 
