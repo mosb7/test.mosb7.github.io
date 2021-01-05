@@ -10,7 +10,7 @@ According to [Merriam-Webster](https://www.merriam-webster.com/), a *scaffold* i
 
 > a temporary or movable platform for workers (such as bricklayers, painters, or miners) to stand or sit on when working at a height above the floor or ground
 
-So is the target of the Jekyll theme Scaffold. It doesn't need to be modern, powerful, colorful, or beautiful; It just needs to be **simple**, **proper**, **naked**, and **neat**.
+So is the target of the Jekyll theme Scaffold. It doesn't need to be modern, colorful, or beautiful; It just needs to be **simple**, **proper**, **naked**, and **neat**.
 
 Scaffold is empirical. Standing on it, you -- the blogger -- can build a great building based on your words.
 
@@ -30,7 +30,6 @@ Scaffold is empirical. Standing on it, you -- the blogger -- can build a great b
 - TOC, via [`jekyll-toc`](https://github.com/allejo/jekyll-toc)
 - [Jekyll Feed](https://github.com/jekyll/jekyll-feed/)
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
-- [Jekyll Sitemap](https://github.com/jekyll/jekyll-sitemap/)
 - [Google Analytics](https://analytics.google.com/)
 - [Disqus](https://disqus.com/)
 - [MathJax](https://www.mathjax.org/)
@@ -91,6 +90,8 @@ If you want to use this theme on GitHub Pages, you can do that via `jekyll-remot
 
 ## Usage
 
+The main usage of this theme is described in detail below. If you find the document difficult to understand or not specific enough, you can also use the [`gh-pages`](https://github.com/sziv2p/jekyll-theme-scaffold/tree/gh-pages) branch of this repository as an example to learn how to use this theme.
+
 ### Global Configuration
 
 | Variable | Type | Default | Specification |
@@ -109,6 +110,7 @@ If you want to use this theme on GitHub Pages, you can do that via `jekyll-remot
 
 | Variable | Type | Default | Specification |
 | -------- | ---- | ------- | ------------- |
+| `description` | String | --- | A description of the current post |
 | `last_modified_at` | String | --- | The date of the last modification you made on a post after its publishing |
 | `author` | String or Array | --- | The author name(s) of the post |
 | `math` | Boolean | `false` | Does enable MathJax on this page |
