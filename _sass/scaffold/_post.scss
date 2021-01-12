@@ -1,5 +1,10 @@
 .post,
 .page {
+  overflow-wrap: break-word;
+  -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+          hyphens: auto;
+
   h1, h2, h3, h4, h5, h6 {
     color: var(--heading-color);
     font-family: var(--heading-font);
