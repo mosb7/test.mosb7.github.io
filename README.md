@@ -30,6 +30,7 @@ Scaffold is empirical. Standing on it, you -- the blogger -- can build a great b
 - TOC, via [`jekyll-toc`](https://github.com/allejo/jekyll-toc)
 - [Jekyll Feed](https://github.com/jekyll/jekyll-feed/)
 - [Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag/)
+- [Jemoji](https://github.com/jekyll/jemoji)
 - [Google Analytics](https://analytics.google.com/)
 - [Disqus](https://disqus.com/)
 - [MathJax](https://www.mathjax.org/)
