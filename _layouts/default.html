@@ -11,6 +11,9 @@
         {% include footer.html %}
       </main>
       <aside class="sidebar-right">
+        {% if site.music %}
+          {% include music.html %}
+        {% endif %}
         {%- if page.toc -%}
           {% include toc-div.html %}
         {%- endif -%}
