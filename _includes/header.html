@@ -1,4 +1,9 @@
 <header class="masthead">
+  {% if site.author.avatar %}
+    <a href="{{ '/' | relative_url }}" title="Home">
+      <img src="{{ site.author.avatar | relative_url }}" alt="Avatar" class="avatar">
+    </a>
+  {% endif %}
   <a class="masthead-title" href="{{ '/' | relative_url }}" title="Home">{{ site.title }}</a>
   <small class="masthead-tagline">{{ site.tagline }}</small>
   {% if site.data.navigation %}
