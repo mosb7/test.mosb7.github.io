@@ -102,6 +102,7 @@ The main usage of this theme is described in detail below. If you find the docum
 | `lang` | String | `en` | The language of pages; The value can be overwritten by the `lang` variable on each page |
 | `author.name` | String | --- | The name of the website author |
 | `author.url` | String | --- | A URL of the website author |
+| `author.avatar` | String | --- | The path to author's avatar resource |
 | `date_format` | String | `%-d %b %Y` | The [date format](http://alanwsmith.com/jekyll-liquid-date-formatting-examples) which is used in many places on the website |
 | `tags_path` | String | --- | A path to the archive-by-tags page; It is used by tags on each post |
 | `google_analytics` | String | --- | Google Analytics tracking ID |
