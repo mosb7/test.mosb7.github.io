@@ -3,6 +3,7 @@ tagline: A minimalist yet powerful Jekyll theme for bloggers
 author:
   name: Songzi Vong
   url: https://twitter.com/sziv2p/
+  avatar: https://github.githubassets.com/favicons/favicon.svg
 paginate: 10
 tags_path: /tags/
 
